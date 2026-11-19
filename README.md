@@ -204,5 +204,3 @@ Each project began with a guided prompt and starter code. I extended the code, d
 I'm looking for **internship and entry-level roles in data science, data engineering, analytics, and software engineering**. I'd love to connect.
 
 - **GitHub:** [github.com/Niharika-Rai](https://github.com/Niharika-Rai)
-- **LinkedIn:** *add your LinkedIn URL here*
-- **Email:** *add your preferred contact email here*
